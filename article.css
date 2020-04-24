@@ -1,0 +1,44 @@
+.article h1 {
+    font-size: 3000px
+    font-family:Times New Roman,Times;
+}
+body {
+   background: #1abc9c;
+   font-family: Tahoma, Arial, sans-serif;
+   color: #ffffff
+}
+.header img {
+    display: block;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.archive {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post-title a, h2  {
+    color: #FFFFFF;
+
+}
+.article-author {
+    width: 50%;
+    float: left;
+}
+.article-created-date {
+    text-align: right;
+}
+h8 {
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-up: auto;
+    margin-down: auto;
+}
+h1 {
+    font-family:Times New Roman,Times;
+}
+h2 {
+    font-family:Times New Roman,Times;
+    font-size: 60px
+}
